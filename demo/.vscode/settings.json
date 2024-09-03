@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 13,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Adapta Nokto",
+    "workbench.iconTheme": "bearded-icons",
+    "workbench.productIconTheme": "feather-vscode"
+}
